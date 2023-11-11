@@ -1,4 +1,4 @@
-### Documentation Sheet: Enhanced User-Friendly GUI for Music Duplicate Finder
+# Documentation Sheet: Enhanced User-Friendly GUI for Music Duplicate Finder
 ## Project Title
 Enhanced User-Friendly GUI for Music Duplicate Finder
 Objective
